@@ -1,0 +1,5 @@
+streamlit
+numpy
+pandas
+scikit-learn
+joblib # Added to ensure successful deserialization and model loading
