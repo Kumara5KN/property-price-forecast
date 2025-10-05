@@ -1,0 +1,19 @@
+streamlit
+numpy
+scikit-learn  
+pandas
+```
+
+### Step 2: Commit and Push the Update
+
+You must now commit this change and push it to your GitHub repository:
+
+```bash
+# Stage the modified file
+git add requirements.txt
+
+# Commit the change
+git commit -m "FIX: Added scikit-learn to requirements for model loading"
+
+# Push the update to GitHub
+git push origin main
