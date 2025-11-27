@@ -4,6 +4,7 @@ A modern, interactive Streamlit web application that predicts home prices in Ban
 The app uses a trained machine learning model, cleaned dataset, and custom-designed UI with dark mode styling.
 
 1.Features
+----------
 
 Predict Bangalore home prices in Indian Lakhs
 
@@ -28,7 +29,8 @@ Optimized with @st.cache_resource for faster loading
 
 Error handling for missing model/data files
 <br>
-2.How It Works<br>
+2.How It Works
+--------------<br>
 
 Loads saved model artifacts from the ./artifacts folder
 
@@ -42,6 +44,7 @@ Displays the result with styled UI
 <br>
 
 ▶️ Run Locally
+--------------<br>
 1️⃣ Install dependencies
 pip install streamlit numpy pickle5
 
