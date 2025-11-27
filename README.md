@@ -4,7 +4,7 @@ A modern, interactive Streamlit web application that predicts home prices in Ban
 The app uses a trained machine learning model, cleaned dataset, and custom-designed UI with dark mode styling.
 
 1.Features
-<p>--------</p>
+
 
 Predict Bangalore home prices in Indian Lakhs
 
@@ -30,7 +30,7 @@ Optimized with @st.cache_resource for faster loading
 Error handling for missing model/data files
 <br>
 2.How It Works
---------------<br>
+<br>
 
 Loads saved model artifacts from the ./artifacts folder
 
@@ -54,4 +54,32 @@ streamlit run app.py
 3️⃣ Visit the app in your browser
 http://localhost:8501
 
+🧪 Prediction Example
+
+Input:
+
+1200 sqft
+
+2 BHK
+
+2 Bath
+
+Electronic City
+
+Output:
+
+₹ 85.40 Lakh
+
+🌐 Deployment (Streamlit Cloud)
+Steps:
+
+Push code to GitHub
+
+Go to https://property-price-forecast.streamlit.app
+
+Select your repo
+
+Deploy
+
+© 2025 Kumara N. All Rights Reserved.
 
