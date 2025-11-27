@@ -3,7 +3,7 @@
 A modern, interactive Streamlit web application that predicts home prices in Bangalore based on location, square footage, number of bedrooms (BHK), and bathrooms.
 The app uses a trained machine learning model, cleaned dataset, and custom-designed UI with dark mode styling.
 
-*Features
+1.Features
 
 Predict Bangalore home prices in Indian Lakhs
 
@@ -27,3 +27,6 @@ Background with blurred overlay
 Optimized with @st.cache_resource for faster loading
 
 Error handling for missing model/data files
+<br>
+
+
