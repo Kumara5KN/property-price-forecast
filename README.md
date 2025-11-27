@@ -4,7 +4,7 @@ A modern, interactive Streamlit web application that predicts home prices in Ban
 The app uses a trained machine learning model, cleaned dataset, and custom-designed UI with dark mode styling.
 
 1.Features
-----------
+<p>--------</p>
 
 Predict Bangalore home prices in Indian Lakhs
 
