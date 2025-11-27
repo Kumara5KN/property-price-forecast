@@ -28,5 +28,27 @@ Optimized with @st.cache_resource for faster loading
 
 Error handling for missing model/data files
 <br>
+2.How It Works<br>
+
+Loads saved model artifacts from the ./artifacts folder
+
+Converts inputs into the correct numeric format
+
+Matches location to one-hot encoded column
+
+Generates prediction using the ML model
+
+Displays the result with styled UI
+<br>
+
+▶️ Run Locally
+1️⃣ Install dependencies
+pip install streamlit numpy pickle5
+
+2️⃣ Run the app
+streamlit run app.py
+
+3️⃣ Visit the app in your browser
+http://localhost:8501
 
 
