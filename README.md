@@ -30,7 +30,7 @@ Optimized with @st.cache_resource for faster loading
 Error handling for missing model/data files
 <br>
 
-2.How It Works
+### 2.How It Works
 <br>
 
 Loads saved model artifacts from the ./artifacts folder
@@ -44,7 +44,7 @@ Generates prediction using the ML model
 Displays the result with styled UI
 <br>
 
-3.▶️ Run Locally
+### 3.▶️ Run Locally
 --------------<br>
 1️⃣ Install dependencies
 pip install streamlit numpy pickle5
@@ -55,7 +55,7 @@ streamlit run app.py
 3️⃣ Visit the app in your browser
 http://localhost:8501
 
-4.🧪 Prediction Example
+### 4.🧪 Prediction Example
 
 Input:
 
@@ -71,7 +71,7 @@ Output:
 
 ₹ 85.40 Lakh
 
-5.🌐 Deployment (Streamlit Cloud)
+### 5.🌐 Deployment (Streamlit Cloud)
 Steps:
 
 Push code to GitHub
